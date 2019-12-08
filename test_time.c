@@ -7,3 +7,5 @@ int main (void)
 	printf ("%s", ctime (&nt));
 	return 0;
 }
+
+// ./test_time
